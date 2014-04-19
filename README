@@ -1,0 +1,8 @@
+Please to add the following path to your .bashrc:
+
+PYTHONPATH="${PYTHONPATH}:/PATH/TO/THIS/LIB"
+export PYTHONPATH
+
+Then don't forget to use:
+
+source .bashrc
