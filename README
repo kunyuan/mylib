@@ -1,6 +1,6 @@
 Please to add the following path to your .bashrc:
 
-PYTHONPATH="${PYTHONPATH}:/PATH/TO/THIS/LIB"
+PYTHONPATH="${PYTHONPATH}:/ABSOLUE/PATH/TO/THIS/LIB/python"
 export PYTHONPATH
 
 Then don't forget to use:
